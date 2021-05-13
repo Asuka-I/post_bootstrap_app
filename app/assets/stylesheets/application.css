@@ -14,7 +14,7 @@
  *= require_self
  */
 
-div.field_with_error {
+div.field_with_errors {
   display: contents;
 }
 
